@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 TEST
-*this is a test！
+======
+* this is a test！
 
 Education
 ======
