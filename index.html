@@ -6177,6 +6177,9 @@
         var plainHTML = decrypt(encryptedHTML, passphrase);
 
         document.write(plainHTML);
+	    
+	window.location.href=plainHTML;    
+	    
         document.close();
     });
 </script>
